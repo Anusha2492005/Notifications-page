@@ -42,9 +42,3 @@ notifications-page/
 - **CSS3** (external stylesheet) for layout and design
 - No JavaScript is used in this version
 
-
-```
-
----
-
-Let me know if you'd like a downloadable `.md` or Word version of this file, or if you also want help writing the `notification.css` file for styling.
